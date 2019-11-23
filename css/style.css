@@ -722,12 +722,13 @@ ul,li{
 	color: #e60000;
 }
 .wellcome-section .image-box{
+	max-height: 600px;
 	position: relative;
 	margin-left: -15px;
 }
 .wellcome-section .image-box img{
 	max-width: none;
-	height: 601px;
+	width:100%;
 }
 .wellcome-section .video-tour{
 	position: absolute;

@@ -138,7 +138,7 @@
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		background: #e60000;
+		background: #aaaaaa;
 		border:1px solid #ffffff;
 		border-top:none;
 	}	
@@ -211,7 +211,7 @@
 		padding:15px 10px !important;
 		line-height:22px;
 		color:#ffffff;
-		background: #26395a;
+		background:#252936;
 		text-align: left;
 	}	
 	.main-menu .navbar-collapse > .navigation > li > a:hover,
